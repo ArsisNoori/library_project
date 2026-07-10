@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'library.apps.LibraryConfig',
 ]
 
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
